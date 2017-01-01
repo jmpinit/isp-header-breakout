@@ -1,0 +1,6 @@
+*.drl
+*.gbr
+
+# KiCAD backup files
+*.kicad_pcb-bak
+*.bak
